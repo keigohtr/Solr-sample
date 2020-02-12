@@ -36,7 +36,7 @@
     <dependency>
       <artifactId>solr-core</artifactId>
       <groupId>org.apache.solr</groupId>
-      <version>5.4.0</version>
+      <version>8.4.0</version>
       <type>jar</type>
     </dependency>
 
